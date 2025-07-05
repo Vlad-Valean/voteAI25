@@ -1,0 +1,10 @@
+python-dotenv
+asyncpraw
+tweepy
+google-api-python-client
+spacy
+emoji
+scikit-learn
+transformers 
+torch
+swifter
